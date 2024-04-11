@@ -1,0 +1,123 @@
+=========( Report_1.TXT )=========
+Name: N/A
+Type: CCV
+Instrument: LCMS-2                          
+Injection Date: Thu Dec 15 06:24:39 CST 2016
+Dilution: 1.0
+Analyte             Result    
+CBDA                0.022531  
+CBD                 0.021572  
+THCA                0.022242  
+CBN                 0.021059  
+THC                 0.021277  
+==================================
+
+
+=========( Report_2.TXT )=========
+Name: N/A
+Type: CCV
+Instrument: LCMS-2                          
+Injection Date: Thu Dec 15 09:48:59 CST 2016
+Dilution: 1.0
+Analyte             Result    
+CBDA                0.023022  
+CBD                 0.022108  
+THCA                0.022425  
+CBN                 0.021513  
+THC                 0.021664  
+==================================
+
+
+=========( Report_3.TXT )=========
+Name: N/A
+Type: CCV
+Instrument: LCMS-2                          
+Injection Date: Thu Dec 15 13:13:17 CST 2016
+Dilution: 1.0
+Analyte             Result    
+CBDA                0.022944  
+CBD                 0.022010  
+THCA                0.022269  
+CBN                 0.021347  
+THC                 0.021477  
+==================================
+
+
+=========( Report_4.TXT )=========
+Name: N/A
+Type: CCV
+Instrument: LCMS-2                          
+Injection Date: Thu Dec 15 16:56:00 CST 2016
+Dilution: 1.0
+Analyte             Result    
+CBDA                0.022993  
+CBD                 0.022207  
+THCA                0.022958  
+CBN                 0.021510  
+THC                 0.021766  
+==================================
+
+
+=========( Report_5.TXT )=========
+Name: N/A
+Type: CCV
+Instrument: LCMS-2                          
+Injection Date: Thu Dec 15 19:43:07 CST 2016
+Dilution: 1.0
+Analyte             Result    
+CBDA                0.023091  
+CBD                 0.022232  
+THCA                0.023329  
+CBN                 0.021595  
+THC                 0.021867  
+==================================
+
+
+=========( Report_6.TXT )=========
+Name: 16-602-36
+Type: SR
+Instrument: LCMS-2                          
+Injection Date: Thu Dec 15 07:57:32 CST 2016
+Dilution: 1.0
+Mass: 0.0847
+Analyte             Result    
+CBDA                0         
+CBD                 0         
+THCA                0.066925  
+CBN                 0         
+THC                 0.004504  
+==================================
+
+
+=========( Report_7.TXT )=========
+Name: 16-811-3
+Type: SR
+Instrument: LCMS-2                          
+Injection Date: Thu Dec 15 08:34:41 CST 2016
+Dilution: 1.0
+Mass: 0.0938
+Analyte             Result    
+CBDA                0.005058  
+CBD                 0         
+THCA                0.063001  
+CBN                 0         
+THC                 0.004568  
+==================================
+
+
+=========( Report_8.TXT )=========
+Name: 16-811-8
+Type: SR
+Instrument: LCMS-2                          
+Injection Date: Thu Dec 15 10:26:08 CST 2016
+Dilution: 1.0
+Mass: 0.1047
+Analyte             Result    
+CBDA                0         
+CBD                 0         
+THCA                0.057005  
+CBN                 0         
+THC                 0.004281  
+==================================
+
+
